@@ -1,0 +1,25 @@
+body{
+    margin:0%;
+}
+div{
+    position:absolute;
+    top:15%;
+    left:35%;
+    border: 1px solid white;
+    padding: 40px;
+
+}
+input{
+    width: 300px;
+    padding:10px;
+    margin-bottom: 10px;
+}
+input:focus{
+background-color: rgba(70, 131, 80, 0.35);
+}
+button{
+    margin: 20px;
+    width: 80px;
+    height: 30px;
+    background-color: grey;
+}
